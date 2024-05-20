@@ -1,0 +1,27 @@
+{
+  "name": "cv-example",
+  "version": "1.0.0",
+  "description": "Plantilla de CV para una SPA",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MigueMat4/cv-example.git"
+  },
+  "keywords": [
+    "cv",
+    "template",
+    "developer"
+  ],
+  "author": "Miguel Matul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MigueMat4/cv-example/issues"
+  },
+  "homepage": "https://github.com/MigueMat4/cv-example#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
